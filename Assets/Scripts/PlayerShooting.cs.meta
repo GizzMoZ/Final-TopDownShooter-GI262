@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 7c703479cf2542048828b6a9d9775d62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startingMelee: {fileID: 11400000, guid: 509b58dde489a46469606c8ae871cbe1, type: 2}
+  - startingRanged: {fileID: 11400000, guid: 07bc5f77f89c9a44e93d204c5ff1f179, type: 2}
+  - pickupPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

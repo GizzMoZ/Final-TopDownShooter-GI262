@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Rifle
   m_EditorClassIdentifier: Assembly-CSharp::WeaponData
   weaponName: Rifle
+  color: {r: 1, g: 1, b: 1, a: 1}
   bulletPrefab: {fileID: 6817135868980187407, guid: 87adcddcfa9aabc4c80bf8a75a4f9344, type: 3}
   automatic: 1
-  fireDelay: 0.1
+  maxAmmo: 30
   pellets: 1
   spreadAngle: 6
   bulletSpeed: 25
   bulletLifetime: 2
+  isMelee: 0
+  meleeRange: 0.8
+  meleeRadius: 0.7
+  fireDelay: 0.1
   damage: 1

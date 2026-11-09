@@ -47,9 +47,9 @@ public class PlayerHealth : MonoBehaviour
     {
         isDead = true;
 
-        controller.enabled = false;      // no more movement or aiming
+        controller.enabled = false;  
         rb.linearVelocity = Vector2.zero;
-        rb.simulated = false;            // body stays put, can't be hit again
+        rb.simulated = false;         
 
         if (sr != null) sr.color = deadColor;
     }

@@ -199,8 +199,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c703479cf2542048828b6a9d9775d62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerShooting
-  weapons:
-  - {fileID: 11400000, guid: 07bc5f77f89c9a44e93d204c5ff1f179, type: 2}
-  - {fileID: 11400000, guid: eb27a656ff5bf7a42b302d655476ef30, type: 2}
-  - {fileID: 11400000, guid: f67722d5d941bce44b4d48271b1eb316, type: 2}
+  startingMelee: {fileID: 11400000, guid: 509b58dde489a46469606c8ae871cbe1, type: 2}
+  startingRanged: {fileID: 11400000, guid: eb27a656ff5bf7a42b302d655476ef30, type: 2}
+  pickupPrefab: {fileID: 5230788251682701766, guid: 19af3215de344ce4aba4f3faf749cce9, type: 3}
   muzzleOffset: 0.6
+  pickupRadius: 1
+  throwSpeed: 14

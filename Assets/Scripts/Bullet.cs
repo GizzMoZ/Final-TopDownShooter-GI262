@@ -23,7 +23,7 @@ public class Bullet : MonoBehaviour
         if (other.isTrigger) return;
         if (other.GetComponent<PlayerHealth>() != null) return;
 
-        // Later: other.GetComponent<EnemyHealth>()?.TakeDamage(Damage);
+        other.GetComponent<IDamageable>()?.TakeDamage(Damage, DamageType.Ranged);
         Destroy(gameObject);
     }
 }

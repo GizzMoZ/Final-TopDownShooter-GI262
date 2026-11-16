@@ -1,0 +1,2298 @@
+fileFormatVersion: 2
+guid: bb259a7d96dbcc746bb18fe90f0eac8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3016627104607655280
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_0
+  - first:
+      213: -6414481578716630429
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_1
+  - first:
+      213: 2062665975281409717
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_2
+  - first:
+      213: 4706212437927250331
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_3
+  - first:
+      213: 3313275275430972176
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_4
+  - first:
+      213: 1604522368399949301
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_5
+  - first:
+      213: -7505579006976664764
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_6
+  - first:
+      213: 7941064836759182498
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_7
+  - first:
+      213: -207317160036375600
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_8
+  - first:
+      213: -6106652061058603213
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_9
+  - first:
+      213: 7581872912221379626
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_10
+  - first:
+      213: 2320977334740180010
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_11
+  - first:
+      213: -6624600629338365056
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_12
+  - first:
+      213: -4286184740555923287
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_13
+  - first:
+      213: -8294074740981694350
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_14
+  - first:
+      213: 6018558195872657160
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_15
+  - first:
+      213: -5408097538347898480
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_16
+  - first:
+      213: -5984592455521062242
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_17
+  - first:
+      213: -663128919469999984
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_18
+  - first:
+      213: 5893801695387517315
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_19
+  - first:
+      213: 1164073887180453710
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_20
+  - first:
+      213: -3066074321080327130
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_21
+  - first:
+      213: -1709923664703099658
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_22
+  - first:
+      213: 4781126094032937879
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_23
+  - first:
+      213: -5589971948869458434
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_24
+  - first:
+      213: -8863704581303610534
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_25
+  - first:
+      213: -2009281657924555632
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_26
+  - first:
+      213: -8777900682067964356
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_27
+  - first:
+      213: 4117055938025883640
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_28
+  - first:
+      213: 5976435838007313481
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_29
+  - first:
+      213: 2188426564206214795
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_30
+  - first:
+      213: 65460536943028019
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_31
+  - first:
+      213: -2123000514772467251
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_32
+  - first:
+      213: 3159364129346380932
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_33
+  - first:
+      213: -555891893516884756
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_34
+  - first:
+      213: 2805346867306774398
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_35
+  - first:
+      213: 2109478279950069292
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_36
+  - first:
+      213: -4071602117689074053
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_37
+  - first:
+      213: -2400072546881962043
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_38
+  - first:
+      213: -2925026223585281621
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_39
+  - first:
+      213: -1765262906605613528
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_40
+  - first:
+      213: -6740472740651533104
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_41
+  - first:
+      213: 95396393402693675
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_42
+  - first:
+      213: -2934909633163523617
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_43
+  - first:
+      213: -1537882494149288060
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_44
+  - first:
+      213: -2632866900046263082
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_45
+  - first:
+      213: 2694612309472391075
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_46
+  - first:
+      213: 6172977692925220154
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_47
+  - first:
+      213: 8497178464682666237
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_48
+  - first:
+      213: -2540887979617813701
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_49
+  - first:
+      213: 3729491936415441983
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_50
+  - first:
+      213: 6797783187201207181
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_51
+  - first:
+      213: 4845878232117896113
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_52
+  - first:
+      213: 514276276966315571
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_53
+  - first:
+      213: 2442892335816776220
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_54
+  - first:
+      213: 3561280983960697224
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_55
+  - first:
+      213: -1147233771284995460
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_56
+  - first:
+      213: 1107534790055678303
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_57
+  - first:
+      213: -5835383616787509051
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_58
+  - first:
+      213: 6686479984492051946
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_59
+  - first:
+      213: 4116876018080266591
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_60
+  - first:
+      213: 9056188049777670057
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_61
+  - first:
+      213: 5883185617369708486
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_62
+  - first:
+      213: 1552662692246669268
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_63
+  - first:
+      213: 7959531082826388349
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_64
+  - first:
+      213: -5699860255304573405
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_65
+  - first:
+      213: 3909623018396947245
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_66
+  - first:
+      213: -4936856369247880963
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_67
+  - first:
+      213: -2719230357170451788
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_68
+  - first:
+      213: -6817959937271902116
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_69
+  - first:
+      213: -4240004761214989263
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_70
+  - first:
+      213: -3708354265432390424
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_71
+  - first:
+      213: -4472528053810871325
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_72
+  - first:
+      213: 8679160182176642950
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_73
+  - first:
+      213: -2378279400816823885
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_74
+  - first:
+      213: -4959895120464800634
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_75
+  - first:
+      213: 1240849302784513665
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_76
+  - first:
+      213: 4165888029892164828
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 352
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07554fd6e563dd920800000000000000
+      internalID: 3016627104607655280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362fe425dfe2bf6a0800000000000000
+      internalID: -6414481578716630429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 332
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedeeaa6cf00ac10800000000000000
+      internalID: 2062665975281409717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 339
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99cd281743df4140800000000000000
+      internalID: 4706212437927250331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 335
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc52bfe4e1bfd20800000000000000
+      internalID: 3313275275430972176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 334
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb5aac798644610800000000000000
+      internalID: 1604522368399949301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 332
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd68fc8a3d6d790800000000000000
+      internalID: -7505579006976664764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 333
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac506d3564543e60800000000000000
+      internalID: 7941064836759182498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 324
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3603034267f1df0800000000000000
+      internalID: -207317160036375600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 315
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e1bd0e40d04ba0800000000000000
+      internalID: -6106652061058603213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9c114e39383960800000000000000
+      internalID: 7581872912221379626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 294
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cdbe0c694c53020800000000000000
+      internalID: 2320977334740180010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083257583d0b014a0800000000000000
+      internalID: -6624600629338365056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 271
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0e67900b96484c0800000000000000
+      internalID: -4286184740555923287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 273
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2700f3b87f685ec80800000000000000
+      internalID: -8294074740981694350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 278
+        width: 26
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f610d9ac6368350800000000000000
+      internalID: 6018558195872657160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099eb1431f392f4b0800000000000000
+      internalID: -5408097538347898480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 271
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e923f239ed472fca0800000000000000
+      internalID: -5984592455521062242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 276
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098b3bad2c71cc6f0800000000000000
+      internalID: -663128919469999984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 267
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810b2e4a6dfac150800000000000000
+      internalID: 5893801695387517315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 258
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47f2b9680f972010800000000000000
+      internalID: 1164073887180453710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 249
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6246f0556ad1375d0800000000000000
+      internalID: -3066074321080327130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 244
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc665c8c712548e0800000000000000
+      internalID: -1709923664703099658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 233
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932f2dd9d8f95240800000000000000
+      internalID: 4781126094032937879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 224
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ec33212e6c62b0800000000000000
+      internalID: -5589971948869458434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 216
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53556d25abcdf480800000000000000
+      internalID: -8863704581303610534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 211
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce2bd4af89d14e0800000000000000
+      internalID: -2009281657924555632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 214
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e0ea346d1ae2680800000000000000
+      internalID: -8777900682067964356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f702720098b22930800000000000000
+      internalID: 4117055938025883640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 214
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944075beab090f250800000000000000
+      internalID: 5976435838007313481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 215
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3a888d5ade5e10800000000000000
+      internalID: 2188426564206214795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ab43f20098e000800000000000000
+      internalID: 65460536943028019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 21
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1040ba7469982e0800000000000000
+      internalID: -2123000514772467251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846dc5cfe058db20800000000000000
+      internalID: 3159364129346380932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 94
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce42861a4431948f0800000000000000
+      internalID: -555891893516884756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 93
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f3399cc189ee620800000000000000
+      internalID: 2805346867306774398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e63d1b15f564d10800000000000000
+      internalID: 2109478279950069292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e1a6c3273ce77c0800000000000000
+      internalID: -4071602117689074053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cffee71cba31bed0800000000000000
+      internalID: -2400072546881962043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba93f78a5283867d0800000000000000
+      internalID: -2925026223585281621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e499c3db68087e0800000000000000
+      internalID: -1765262906605613528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf24341c70572a0800000000000000
+      internalID: -6740472740651533104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 43
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28fe9da38ae25100800000000000000
+      internalID: 95396393402693675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd98a6b0d3b1547d0800000000000000
+      internalID: -2934909633163523617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 52
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f90f5050858aae0800000000000000
+      internalID: -1537882494149288060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 45
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dccbd1018d267bd0800000000000000
+      internalID: -2632866900046263082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 46
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af2f796e9f256520800000000000000
+      internalID: 2694612309472391075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 51
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d7318182daa550800000000000000
+      internalID: 6172977692925220154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8628c2bca0ce570800000000000000
+      internalID: 8497178464682666237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 41
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf1d048d3fcbcd0800000000000000
+      internalID: -2540887979617813701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 33
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e9be0821d1c330800000000000000
+      internalID: 3729491936415441983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 29
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b2045eac3965e50800000000000000
+      internalID: 6797783187201207181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 40
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b36f2ad394004340800000000000000
+      internalID: 4845878232117896113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336dcf49c83132700800000000000000
+      internalID: 514276276966315571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a12ece2a5e6e120800000000000000
+      internalID: 2442892335816776220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b45abf263c6130800000000000000
+      internalID: 3561280983960697224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72e93c96f43410f0800000000000000
+      internalID: -1147233771284995460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 26
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d7a90601ce5f00800000000000000
+      internalID: 1107534790055678303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 28
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01f39848d840fa0800000000000000
+      internalID: -5835383616787509051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 15
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed78619e162bcc50800000000000000
+      internalID: 6686479984492051946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59bff12de4122930800000000000000
+      internalID: 4116876018080266591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b22eac0b0ead70800000000000000
+      internalID: 9056188049777670057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73207062645a150800000000000000
+      internalID: 5883185617369708486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 23
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74d530e7a2c8510800000000000000
+      internalID: 1552662692246669268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d731c82395fe57e60800000000000000
+      internalID: 7959531082826388349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e14350c4706e0b0800000000000000
+      internalID: -5699860255304573405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239d31db65c14630800000000000000
+      internalID: 3909623018396947245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8fadbe943cc7bb0800000000000000
+      internalID: -4936856369247880963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba8562b56a534ad0800000000000000
+      internalID: -2719230357170451788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 14
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5050166f8db161a0800000000000000
+      internalID: -6817959937271902116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cc0d9522a7825c0800000000000000
+      internalID: -4240004761214989263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4099b7177498cc0800000000000000
+      internalID: -3708354265432390424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e342a87e636ee1c0800000000000000
+      internalID: -4472528053810871325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877a579332927870800000000000000
+      internalID: 8679160182176642950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13fa15c77aefed0800000000000000
+      internalID: -2378279400816823885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6849085aaa9ea2bb0800000000000000
+      internalID: -4959895120464800634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1861348ddd1683110800000000000000
+      internalID: 1240849302784513665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc36c3671530d930800000000000000
+      internalID: 4165888029892164828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 272
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30617a11e15bc84a8c7ffae7c0d76eb
+      internalID: -1691133733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 217
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405fb5f68186af47977279f7bde5014
+      internalID: 2089612976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 334
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2a6b431180574283ed67d2f549556
+      internalID: -1683027911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81cb34acf39e5d48ae167b7ee6bed7a
+      internalID: -1389848890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 155
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb21e3c2e93a444b6184bf399bf427
+      internalID: 1798568592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 44
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8810bd89057e44ea42a8c409005d33
+      internalID: 1300575309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7794aca74a2233647805957c9d2f86b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_0: 3016627104607655280
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_1: -6414481578716630429
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_10: 7581872912221379626
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_11: 2320977334740180010
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_12: -6624600629338365056
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_13: -4286184740555923287
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_14: -8294074740981694350
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_15: 6018558195872657160
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_16: -5408097538347898480
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_17: -5984592455521062242
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_18: -663128919469999984
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_19: 5893801695387517315
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_2: 2062665975281409717
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_20: 1164073887180453710
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_21: -3066074321080327130
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_22: -1709923664703099658
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_23: 4781126094032937879
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_24: -5589971948869458434
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_25: -8863704581303610534
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_26: -2009281657924555632
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_27: -8777900682067964356
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_28: 4117055938025883640
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_29: 5976435838007313481
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_3: 4706212437927250331
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_30: 2188426564206214795
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_31: 65460536943028019
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_32: -2123000514772467251
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_33: 3159364129346380932
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_34: -555891893516884756
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_35: 2805346867306774398
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_36: 2109478279950069292
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_37: -4071602117689074053
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_38: -2400072546881962043
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_39: -2925026223585281621
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_4: 3313275275430972176
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_40: -1765262906605613528
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_41: -6740472740651533104
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_42: 95396393402693675
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_43: -2934909633163523617
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_44: -1537882494149288060
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_45: -2632866900046263082
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_46: 2694612309472391075
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_47: 6172977692925220154
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_48: 8497178464682666237
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_49: -2540887979617813701
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_5: 1604522368399949301
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_50: 3729491936415441983
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_51: 6797783187201207181
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_52: 4845878232117896113
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_53: 514276276966315571
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_54: 2442892335816776220
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_55: 3561280983960697224
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_56: -1147233771284995460
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_57: 1107534790055678303
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_58: -5835383616787509051
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_59: 6686479984492051946
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_6: -7505579006976664764
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_60: 4116876018080266591
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_61: 9056188049777670057
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_62: 5883185617369708486
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_63: 1552662692246669268
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_64: 7959531082826388349
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_65: -5699860255304573405
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_66: 3909623018396947245
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_67: -4936856369247880963
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_68: -2719230357170451788
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_69: -6817959937271902116
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_7: 7941064836759182498
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_70: -4240004761214989263
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_71: -3708354265432390424
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_72: -4472528053810871325
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_73: 8679160182176642950
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_74: -2378279400816823885
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_75: -4959895120464800634
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_76: 1240849302784513665
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_77: 4165888029892164828
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_78: -1691133733
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_79: 2089612976
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_8: -207317160036375600
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_80: -1683027911
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_81: -1389848890
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_82: 1798568592
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_83: 1300575309
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Weapons - Weapons_9: -6106652061058603213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

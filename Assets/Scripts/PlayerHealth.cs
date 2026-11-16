@@ -4,11 +4,15 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    [SerializeField] int maxHealth = 1;
+    public static PlayerHealth Instance { get; private set; }
+
+    [SerializeField] int maxHealth = 1; // 1 = die in one hit
     [SerializeField] Color deadColor = new Color(0.6f, 0.1f, 0.1f);
 
     int health;
     bool isDead;
+
+    public bool IsDead => isDead;
 
     Rigidbody2D rb;
     SpriteRenderer sr;
@@ -16,10 +20,17 @@ public class PlayerHealth : MonoBehaviour
 
     void Awake()
     {
+        Instance = this;
+
         health = maxHealth;
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         controller = GetComponent<PlayerController>();
+    }
+
+    void OnDestroy()
+    {
+        if (Instance == this) Instance = null;
     }
 
     void Update()
@@ -27,12 +38,14 @@ public class PlayerHealth : MonoBehaviour
         var kb = Keyboard.current;
         if (kb == null) return;
 
-        // Temporary test key until enemies exist
-        if (!isDead && kb.gKey.wasPressedThisFrame)
-            TakeDamage(1);
-
-        if (isDead && kb.rKey.wasPressedThisFrame)
+        if (kb.rKey.wasPressedThisFrame) // R restart
+        {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            return;
+        }
+
+        if (!isDead && kb.gKey.wasPressedThisFrame) // G kill yourself
+            TakeDamage(1);
     }
 
     public void TakeDamage(int amount)
@@ -47,9 +60,12 @@ public class PlayerHealth : MonoBehaviour
     {
         isDead = true;
 
-        controller.enabled = false;  
+        controller.enabled = false;
+        var shooting = GetComponent<PlayerShooting>();
+        if (shooting != null) shooting.enabled = false;
+
         rb.linearVelocity = Vector2.zero;
-        rb.simulated = false;         
+        rb.simulated = false;
 
         if (sr != null) sr.color = deadColor;
     }

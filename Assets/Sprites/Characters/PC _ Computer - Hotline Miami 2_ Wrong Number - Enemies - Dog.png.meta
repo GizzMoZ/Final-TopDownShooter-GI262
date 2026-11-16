@@ -1,0 +1,3044 @@
+fileFormatVersion: 2
+guid: b67392c9ad833794981e1a51f337d44a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8565474302940442621
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_0
+  - first:
+      213: 4701349113796571992
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_1
+  - first:
+      213: 2965981980445538422
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_2
+  - first:
+      213: -8096345054478020963
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_3
+  - first:
+      213: 4778200874681013640
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_4
+  - first:
+      213: -3510905197074265467
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_5
+  - first:
+      213: -641567547540582879
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_6
+  - first:
+      213: 4949619507615761053
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_7
+  - first:
+      213: 5453301300316998492
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_8
+  - first:
+      213: 6352534328725954350
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_9
+  - first:
+      213: 5023271422059687699
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_10
+  - first:
+      213: -400427538576856718
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_11
+  - first:
+      213: -4375198206659410407
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_12
+  - first:
+      213: -3626783444127207387
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_13
+  - first:
+      213: -2161249824925417849
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_14
+  - first:
+      213: 8652074122002044707
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_15
+  - first:
+      213: 4830354682925547024
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_16
+  - first:
+      213: 7591770712815086043
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_17
+  - first:
+      213: 6800160607706445460
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_18
+  - first:
+      213: -6066655965412499632
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_19
+  - first:
+      213: -1522688323553468349
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_20
+  - first:
+      213: -3295952791444109257
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_21
+  - first:
+      213: 5424976417996776927
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_22
+  - first:
+      213: 1574470175660062065
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_23
+  - first:
+      213: -1514439440080117673
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_24
+  - first:
+      213: -4530227074624941878
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_25
+  - first:
+      213: -2192353188253545197
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_26
+  - first:
+      213: 1434470962391223562
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_27
+  - first:
+      213: 5337256116816879478
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_28
+  - first:
+      213: -448469358973326530
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_29
+  - first:
+      213: -1908419535979348587
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_30
+  - first:
+      213: -1653495574058569655
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_31
+  - first:
+      213: -5974421954070343085
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_32
+  - first:
+      213: -7964731010827503975
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_33
+  - first:
+      213: 1608639317178281362
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_34
+  - first:
+      213: -7119846336008599355
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_35
+  - first:
+      213: 8456804000125460503
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_36
+  - first:
+      213: -3770592034328642965
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_37
+  - first:
+      213: 1825198059214960532
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_38
+  - first:
+      213: 9034765220737842723
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_39
+  - first:
+      213: 76179953363810870
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_40
+  - first:
+      213: -360668621681056099
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_41
+  - first:
+      213: -7329179504239119589
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_42
+  - first:
+      213: 282793214652672107
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_43
+  - first:
+      213: -6514847316536375287
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_44
+  - first:
+      213: 6194655594674833366
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_45
+  - first:
+      213: -1710589914259286138
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_46
+  - first:
+      213: -5232244669797574890
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_47
+  - first:
+      213: 3957272129887107382
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_48
+  - first:
+      213: -5202335835057436217
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_49
+  - first:
+      213: 635743621846751016
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_50
+  - first:
+      213: 983082801889313834
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_51
+  - first:
+      213: -2010306049012410145
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_52
+  - first:
+      213: -1511566390291183776
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_53
+  - first:
+      213: -1278001528462619780
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_54
+  - first:
+      213: -7692085449472651486
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_55
+  - first:
+      213: -3302946400833155389
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_56
+  - first:
+      213: -7458190439260920469
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_57
+  - first:
+      213: -2685046429348745418
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_58
+  - first:
+      213: 5947401791781122926
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_59
+  - first:
+      213: 3329668112444321974
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_60
+  - first:
+      213: 700982910641940534
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_61
+  - first:
+      213: 3368585326868126319
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_62
+  - first:
+      213: -3099475255919749969
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_63
+  - first:
+      213: -5990364684671891466
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_64
+  - first:
+      213: 4648904708540040467
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_65
+  - first:
+      213: -901410117383514724
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_66
+  - first:
+      213: 2186742744316518966
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_67
+  - first:
+      213: 982932442158169017
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_68
+  - first:
+      213: 7761972131181763200
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_69
+  - first:
+      213: 596873400069712452
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_70
+  - first:
+      213: -4099512546181446596
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_71
+  - first:
+      213: -2492762968861983990
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_72
+  - first:
+      213: -3668872264539910323
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_73
+  - first:
+      213: -5976614063301749526
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_74
+  - first:
+      213: 2847293854447748543
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_75
+  - first:
+      213: 5731829216747202866
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_76
+  - first:
+      213: -8814819959896678113
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_77
+  - first:
+      213: -4876502905430653139
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_78
+  - first:
+      213: -4724946354236092012
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_79
+  - first:
+      213: -4536579211518657968
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_80
+  - first:
+      213: 5110405070589428937
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_81
+  - first:
+      213: 7561729683267645125
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_82
+  - first:
+      213: -1517755820432799360
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_83
+  - first:
+      213: 2434367516369170355
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_84
+  - first:
+      213: 2610101015109337316
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_85
+  - first:
+      213: -7510554101417832773
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_86
+  - first:
+      213: 1103514752576004452
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_87
+  - first:
+      213: -1557675613044547350
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_88
+  - first:
+      213: -2746075152807000226
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_89
+  - first:
+      213: 806673254761775542
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_90
+  - first:
+      213: -6228200636270047745
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_91
+  - first:
+      213: -7990663976579922930
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_92
+  - first:
+      213: -3915090433384646949
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_93
+  - first:
+      213: -7467414298052161279
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_94
+  - first:
+      213: -8232185999105295382
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_95
+  - first:
+      213: -7214180493356631127
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_96
+  - first:
+      213: -6247882023229039894
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_97
+  - first:
+      213: 6488353197004597919
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_98
+  - first:
+      213: -7700094296437354506
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_99
+  - first:
+      213: -7776473444493587639
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_100
+  - first:
+      213: -2397874096289457192
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_101
+  - first:
+      213: 2387155828335651039
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_102
+  - first:
+      213: -5434645484586518584
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_103
+  - first:
+      213: -3615162624981031012
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_104
+  - first:
+      213: 7592858906646956528
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_105
+  - first:
+      213: 5111812470948178890
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_106
+  - first:
+      213: -7656549650393455405
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_107
+  - first:
+      213: -6002109209291358169
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_108
+  - first:
+      213: 8534433253141490468
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_109
+  - first:
+      213: 4061892170880163224
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_110
+  - first:
+      213: -7246761682002576844
+    second: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 328
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3009f78d082512980800000000000000
+      internalID: -8565474302940442621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 325
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85331f43c1c8e3140800000000000000
+      internalID: 4701349113796571992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 319
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787aa295e8492920800000000000000
+      internalID: 2965981980445538422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 319
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec8d8b11104af80800000000000000
+      internalID: -8096345054478020963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 328
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88592d821649f4240800000000000000
+      internalID: 4778200874681013640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 330
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac0582352c64fc0800000000000000
+      internalID: -3510905197074265467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 331
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecc65f6b1b817f0800000000000000
+      internalID: -641567547540582879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 331
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9208ccc7b490b440800000000000000
+      internalID: 4949619507615761053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 331
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b029ac3a40eab40800000000000000
+      internalID: 5453301300316998492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 331
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5f27905cb82850800000000000000
+      internalID: 6352534328725954350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2d327ebe36b540800000000000000
+      internalID: 5023271422059687699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 278
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a7d47645617af0800000000000000
+      internalID: -400427538576856718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 278
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c32e696c2843c0800000000000000
+      internalID: -4375198206659410407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 278
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520b78f4ca31badc0800000000000000
+      internalID: -3626783444127207387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 299
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef17a2cb2b102e0800000000000000
+      internalID: -2161249824925417849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 297
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271844c297521870800000000000000
+      internalID: 8652074122002044707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 297
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01efbe6edfdd80340800000000000000
+      internalID: 4830354682925547024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 298
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ae898d336b5960800000000000000
+      internalID: 7591770712815086043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 298
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49672fd3b060f5e50800000000000000
+      internalID: 6800160607706445460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 298
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f551fba88eecba0800000000000000
+      internalID: -6066655965412499632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 257
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e5fa89035edae0800000000000000
+      internalID: -1522688323553468349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 265
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738448d166c6242d0800000000000000
+      internalID: -3295952791444109257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 266
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a1953f43694b40800000000000000
+      internalID: 5424976417996776927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 266
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1753aa96844a9d510800000000000000
+      internalID: 1574470175660062065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 265
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ee246a51abfae0800000000000000
+      internalID: -1514439440080117673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 266
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac09f115a766121c0800000000000000
+      internalID: -4530227074624941878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 266
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc3ff04623391e0800000000000000
+      internalID: -2192353188253545197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 242
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d01f97db348e310800000000000000
+      internalID: 1434470962391223562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 237
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f9626092eb11a40800000000000000
+      internalID: 5337256116816879478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 237
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b6fbd7e77b6c9f0800000000000000
+      internalID: -448469358973326530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 232
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df8831b8ee385e0800000000000000
+      internalID: -1908419535979348587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 237
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940fe86398a9d09e0800000000000000
+      internalID: -1653495574058569655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 235
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3529759f2e6961da0800000000000000
+      internalID: -5974421954070343085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 236
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996b6183857977190800000000000000
+      internalID: -7964731010827503975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 235
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d6320afe8035610800000000000000
+      internalID: 1608639317178281362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 235
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c847deda79313d90800000000000000
+      internalID: -7119846336008599355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a49a9e6a9c5570800000000000000
+      internalID: 8456804000125460503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 196
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a7ce0b58a2cabc0800000000000000
+      internalID: -3770592034328642965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 196
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977d3ce6f7645910800000000000000
+      internalID: 1825198059214960532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 197
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ef12b991fe16d70800000000000000
+      internalID: 9034765220737842723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 204
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a71439345ae0100800000000000000
+      internalID: 76179953363810870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 207
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96221bacc5aefaf0800000000000000
+      internalID: -360668621681056099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 205
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13f0c29216894a90800000000000000
+      internalID: -7329179504239119589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 206
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6863403eeeace300800000000000000
+      internalID: 282793214652672107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_44
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 205
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90841fbf1ec9695a0800000000000000
+      internalID: -6514847316536375287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 204
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ca725176d7f550800000000000000
+      internalID: 6194655594674833366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687953c3983c248e0800000000000000
+      internalID: -1710589914259286138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 174
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d8c6c1355367b0800000000000000
+      internalID: -5232244669797574890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 176
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639797d190e0be630800000000000000
+      internalID: 3957272129887107382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 173
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cd150f179dc7b0800000000000000
+      internalID: -5202335835057436217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 172
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827556ca47d92d800800000000000000
+      internalID: 635743621846751016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 173
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a248867899c94ad00800000000000000
+      internalID: 983082801889313834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 178
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8dbcaac45f914e0800000000000000
+      internalID: -2010306049012410145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067464c6066d50be0800000000000000
+      internalID: -1511566390291183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 155
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b44998160a34ee0800000000000000
+      internalID: -1278001528462619780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 155
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f4b32c909304590800000000000000
+      internalID: -7692085449472651486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4f2a8fb39922d0800000000000000
+      internalID: -3302946400833155389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 142
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6563a88f4f2f7890800000000000000
+      internalID: -7458190439260920469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 143
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fac3d9f7cccbad0800000000000000
+      internalID: -2685046429348745418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 146
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b2af3b6a698250800000000000000
+      internalID: 5947401791781122926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_60
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 146
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b07036c18b553e20800000000000000
+      internalID: 3329668112444321974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_61
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 153
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ae664e346ab900800000000000000
+      internalID: 700982910641940534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a519bd18e9fbe20800000000000000
+      internalID: 3368585326868126319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 114
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45acc2da37cf4d0800000000000000
+      internalID: -3099475255919749969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 114
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7461fbe03fddca0800000000000000
+      internalID: -5990364684671891466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 120
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158b23933a348040800000000000000
+      internalID: 4648904708540040467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 111
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95996c264c8d73f0800000000000000
+      internalID: -901410117383514724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 112
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632262aa0fed85e10800000000000000
+      internalID: 2186742744316518966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_68
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7b0d29d314ad00800000000000000
+      internalID: 982932442158169017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 127
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1293578018bb60800000000000000
+      internalID: 7761972131181763200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_70
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 127
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae80be135884800800000000000000
+      internalID: 596873400069712452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3409943f0b9b17c0800000000000000
+      internalID: -4099512546181446596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 114
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bbbbb794de76dd0800000000000000
+      internalID: -2492762968861983990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 110
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fc0d92d1c851dc0800000000000000
+      internalID: -3668872264539910323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_74
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 110
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae49b45cc2dce0da0800000000000000
+      internalID: -5976614063301749526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_75
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 110
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c28dccae938720800000000000000
+      internalID: 2847293854447748543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_76
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392c69dd4c8b8f40800000000000000
+      internalID: 5731829216747202866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 73
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11e55b03f77ba580800000000000000
+      internalID: -8814819959896678113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 74
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2745afb17e235cb0800000000000000
+      internalID: -4876502905430653139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 81
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4911bfc135e9d6eb0800000000000000
+      internalID: -4724946354236092012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_80
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 82
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a32023e35da01c0800000000000000
+      internalID: -4536579211518657968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_81
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 81
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c486dae55ecbe640800000000000000
+      internalID: 5110405070589428937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 93
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cee1ba4519a0f860800000000000000
+      internalID: 7561729683267645125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 93
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089425b6f19dfeae0800000000000000
+      internalID: -1517755820432799360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_84
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 93
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf2fe9bb5c98c120800000000000000
+      internalID: 2434367516369170355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08a795b01f83420800000000000000
+      internalID: 2610101015109337316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_86
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 77
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe03ae56d625c790800000000000000
+      internalID: -7510554101417832773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 76
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46122bf12d8705f00800000000000000
+      internalID: 1103514752576004452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_88
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 76
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e0396846026ae0800000000000000
+      internalID: -1557675613044547350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578966a23bf3e9d0800000000000000
+      internalID: -2746075152807000226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_90
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 32
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b142ef1d01e13b00800000000000000
+      internalID: 806673254761775542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd034d058cf099a0800000000000000
+      internalID: -6228200636270047745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_92
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04817c13757b1190800000000000000
+      internalID: -7990663976579922930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f39e6efdcaa9c0800000000000000
+      internalID: -3915090433384646949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 59
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1019ded824a6e5890800000000000000
+      internalID: -7467414298052161279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_95
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 59
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7266237661cd80800000000000000
+      internalID: -8232185999105295382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_96
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 59
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abfceb401512eb90800000000000000
+      internalID: -7214180493356631127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea52ee07601b49a0800000000000000
+      internalID: -6247882023229039894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_98
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aaabc1bd24b0a50800000000000000
+      internalID: 6488353197004597919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 42
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff07d3c805c32590800000000000000
+      internalID: -7700094296437354506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_100
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 42
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b83bf8a9a641490800000000000000
+      internalID: -7776473444493587639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_101
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 42
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db5e82c63a09bed0800000000000000
+      internalID: -2397874096289457192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_102
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 19
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd823730491e02120800000000000000
+      internalID: 2387155828335651039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_103
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 15
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73a0bc9b24494b0800000000000000
+      internalID: -5434645484586518584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_104
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 18
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97acbc1fbc54ddc0800000000000000
+      internalID: -3615162624981031012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_105
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 25
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94a5862f04f5960800000000000000
+      internalID: 7592858906646956528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_106
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 25
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2749db5ec0f640800000000000000
+      internalID: 5111812470948178890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_107
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 26
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4282bb8a87eb590800000000000000
+      internalID: -7656549650393455405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_108
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7208615897934bca0800000000000000
+      internalID: -6002109209291358169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 8
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba7cc83d5607670800000000000000
+      internalID: 8534433253141490468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_110
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 9
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9049986dbe5830800000000000000
+      internalID: 4061892170880163224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_111
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af25c25a45e6b90800000000000000
+      internalID: -7246761682002576844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e354b0a65e33dab46b0d71ed46daf7a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_0: -8565474302940442621
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_1: 4701349113796571992
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_10: 5023271422059687699
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_100: -7776473444493587639
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_101: -2397874096289457192
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_102: 2387155828335651039
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_103: -5434645484586518584
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_104: -3615162624981031012
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_105: 7592858906646956528
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_106: 5111812470948178890
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_107: -7656549650393455405
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_108: -6002109209291358169
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_109: 8534433253141490468
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_11: -400427538576856718
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_110: 4061892170880163224
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_111: -7246761682002576844
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_12: -4375198206659410407
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_13: -3626783444127207387
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_14: -2161249824925417849
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_15: 8652074122002044707
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_16: 4830354682925547024
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_17: 7591770712815086043
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_18: 6800160607706445460
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_19: -6066655965412499632
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_2: 2965981980445538422
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_20: -1522688323553468349
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_21: -3295952791444109257
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_22: 5424976417996776927
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_23: 1574470175660062065
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_24: -1514439440080117673
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_25: -4530227074624941878
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_26: -2192353188253545197
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_27: 1434470962391223562
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_28: 5337256116816879478
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_29: -448469358973326530
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_3: -8096345054478020963
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_30: -1908419535979348587
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_31: -1653495574058569655
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_32: -5974421954070343085
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_33: -7964731010827503975
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_34: 1608639317178281362
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_35: -7119846336008599355
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_36: 8456804000125460503
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_37: -3770592034328642965
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_38: 1825198059214960532
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_39: 9034765220737842723
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_4: 4778200874681013640
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_40: 76179953363810870
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_41: -360668621681056099
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_42: -7329179504239119589
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_43: 282793214652672107
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_44: -6514847316536375287
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_45: 6194655594674833366
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_46: -1710589914259286138
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_47: -5232244669797574890
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_48: 3957272129887107382
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_49: -5202335835057436217
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_5: -3510905197074265467
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_50: 635743621846751016
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_51: 983082801889313834
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_52: -2010306049012410145
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_53: -1511566390291183776
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_54: -1278001528462619780
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_55: -7692085449472651486
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_56: -3302946400833155389
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_57: -7458190439260920469
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_58: -2685046429348745418
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_59: 5947401791781122926
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_6: -641567547540582879
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_60: 3329668112444321974
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_61: 700982910641940534
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_62: 3368585326868126319
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_63: -3099475255919749969
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_64: -5990364684671891466
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_65: 4648904708540040467
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_66: -901410117383514724
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_67: 2186742744316518966
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_68: 982932442158169017
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_69: 7761972131181763200
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_7: 4949619507615761053
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_70: 596873400069712452
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_71: -4099512546181446596
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_72: -2492762968861983990
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_73: -3668872264539910323
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_74: -5976614063301749526
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_75: 2847293854447748543
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_76: 5731829216747202866
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_77: -8814819959896678113
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_78: -4876502905430653139
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_79: -4724946354236092012
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_8: 5453301300316998492
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_80: -4536579211518657968
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_81: 5110405070589428937
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_82: 7561729683267645125
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_83: -1517755820432799360
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_84: 2434367516369170355
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_85: 2610101015109337316
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_86: -7510554101417832773
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_87: 1103514752576004452
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_88: -1557675613044547350
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_89: -2746075152807000226
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_9: 6352534328725954350
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_90: 806673254761775542
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_91: -6228200636270047745
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_92: -7990663976579922930
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_93: -3915090433384646949
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_94: -7467414298052161279
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_95: -8232185999105295382
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_96: -7214180493356631127
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_97: -6247882023229039894
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_98: 6488353197004597919
+      PC _ Computer - Hotline Miami 2_ Wrong Number - Enemies - Dog_99: -7700094296437354506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

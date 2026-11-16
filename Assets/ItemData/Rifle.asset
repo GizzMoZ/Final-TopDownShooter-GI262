@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7f7d3bd329d1f428e70b68fe27ad5d, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Rifle
+  sprite: {fileID: -1389848890, guid: bb259a7d96dbcc746bb18fe90f0eac8e, type: 3}
+  spriteLength: 1
+  spriteRotation: 90
+  color: {r: 1, g: 1, b: 1, a: 1}
+  holdOffset: {x: 0.25, y: 0.5}
+  bulletPrefab: {fileID: 6817135868980187407, guid: 87adcddcfa9aabc4c80bf8a75a4f9344, type: 3}
+  automatic: 1
+  maxAmmo: 30
+  pellets: 1
+  spreadAngle: 6
+  bulletSpeed: 25
+  bulletLifetime: 2
+  noiseRadius: 12
+  isMelee: 0
+  meleeRange: 0.8
+  meleeRadius: 0.7
+  swingArc: 120
+  swingThrust: 0
+  swingTime: 0.15
+  killsWhenThrown: 0
+  stunDuration: 2
+  fireDelay: 0.1
+  damage: 1

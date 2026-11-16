@@ -10,10 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1137209716560942819}
   - component: {fileID: 5780702558731442518}
-  - component: {fileID: 5410562936009515549}
-  - component: {fileID: 8245900521803177575}
   - component: {fileID: 420975935416581327}
   - component: {fileID: 688839429464318719}
+  - component: {fileID: 2041261336794234755}
+  - component: {fileID: -2126415812200673039}
+  - component: {fileID: 4977284733628110625}
+  - component: {fileID: -6020778596830863112}
   m_Layer: 0
   m_Name: BaseEnemy
   m_TagString: Untagged
@@ -96,69 +98,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!114 &5410562936009515549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5623609513069801656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 592505758e98e58488b069f9e675ac50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
-  moveSpeed: 3
-  sightRange: 8
-  obstacleMask:
-    serializedVersion: 2
-    m_Bits: 0
---- !u!61 &8245900521803177575
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5623609513069801656}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.21133333}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.28866667}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
 --- !u!50 &420975935416581327
 Rigidbody2D:
   serializedVersion: 5
@@ -200,3 +139,117 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   type: 0
   health: 1
+  dropWeapon: {fileID: 0}
+  dropAmmo: 6
+  pickupPrefab: {fileID: 0}
+--- !u!114 &2041261336794234755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5623609513069801656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 592505758e98e58488b069f9e675ac50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
+  attackType: 0
+  idleMode: 0
+  waypoints: []
+  patrolSpeed: 1.5
+  waitAtWaypoint: 1
+  sightRange: 8
+  viewAngle: 140
+  loseSightTime: 3
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 8
+  chaseSpeed: 3
+  investigateSpeed: 2.5
+  investigateWait: 2
+  usePathfinding: 1
+  bulletPrefab: {fileID: 0}
+  stopDistance: 5
+  reactionTime: 0.5
+  fireDelay: 1.2
+  bulletSpeedScale: 0.5
+  spreadAngle: 6
+  weaponSearchRadius: 10
+  useCarriedGun: 0
+  meleeWindup: 0.3
+  meleeCooldown: 0.8
+  canLunge: 0
+  lungeRange: 3.5
+  lungeWindup: 0.25
+  lungeSpeed: 12
+  lungeDuration: 0.35
+  lungeRecover: 0.7
+  showVision: 1
+--- !u!114 &-2126415812200673039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5623609513069801656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd0c27dbefe038747ba4bcaec62f200b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyVisionCone
+  calmColor: {r: 1, g: 1, b: 1, a: 0.11764706}
+  investigateColor: {r: 1, g: 0.6, b: 0.1, a: 0.11764706}
+  alertColor: {r: 1, g: 0.15, b: 0.15, a: 0.11764706}
+  sortingOrder: 5
+  degreesPerRay: 5
+--- !u!58 &4977284733628110625
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5623609513069801656}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.21133333}
+  m_Radius: 0.5
+--- !u!114 &-6020778596830863112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5623609513069801656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d215df04466eb154588cfbb8687669a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyWeapon
+  weaponPool: []
+  showHeldWeapon: 1

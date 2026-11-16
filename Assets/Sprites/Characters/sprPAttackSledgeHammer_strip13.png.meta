@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: ee619edde7390c143ba577f2f9c61374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3009047622171963198
+    second: sprPAttackSledgeHammer_strip13_0
+  - first:
+      213: 8291506078526485310
+    second: sprPAttackSledgeHammer_strip13_1
+  - first:
+      213: 7934702596321821805
+    second: sprPAttackSledgeHammer_strip13_2
+  - first:
+      213: -1321179664708721430
+    second: sprPAttackSledgeHammer_strip13_3
+  - first:
+      213: -8175282813966644696
+    second: sprPAttackSledgeHammer_strip13_4
+  - first:
+      213: -2967250240664087681
+    second: sprPAttackSledgeHammer_strip13_5
+  - first:
+      213: -7466146594327777744
+    second: sprPAttackSledgeHammer_strip13_6
+  - first:
+      213: 1625970042100430507
+    second: sprPAttackSledgeHammer_strip13_7
+  - first:
+      213: -8808564675399457821
+    second: sprPAttackSledgeHammer_strip13_8
+  - first:
+      213: -3686701187441362655
+    second: sprPAttackSledgeHammer_strip13_9
+  - first:
+      213: 1582780681004089069
+    second: sprPAttackSledgeHammer_strip13_10
+  - first:
+      213: 1461563803178753667
+    second: sprPAttackSledgeHammer_strip13_11
+  - first:
+      213: 525682925719390232
+    second: sprPAttackSledgeHammer_strip13_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2bc7aed842c920800000000000000
+      internalID: 3009047622171963198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33309f19d8511370800000000000000
+      internalID: 8291506078526485310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c124b8f9bd1e60800000000000000
+      internalID: 7934702596321821805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42198481a3aade0800000000000000
+      internalID: -1321179664708721430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 22
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a892f589f8b8e80800000000000000
+      internalID: -8175282813966644696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 22
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73568590a532d6d0800000000000000
+      internalID: -2967250240664087681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 18
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ea914da3be26890800000000000000
+      internalID: -7466146594327777744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 18
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b2d6732b909610800000000000000
+      internalID: 1625970042100430507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e2c5f811b1c580800000000000000
+      internalID: -8808564675399457821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129fb819dc436dcc0800000000000000
+      internalID: -3686701187441362655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee7998b4aa27f510800000000000000
+      internalID: 1582780681004089069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed9090984884410800000000000000
+      internalID: 1461563803178753667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackSledgeHammer_strip13_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180ef3f5d99b4700800000000000000
+      internalID: 525682925719390232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprPAttackSledgeHammer_strip13_0: 3009047622171963198
+      sprPAttackSledgeHammer_strip13_1: 8291506078526485310
+      sprPAttackSledgeHammer_strip13_10: 1582780681004089069
+      sprPAttackSledgeHammer_strip13_11: 1461563803178753667
+      sprPAttackSledgeHammer_strip13_12: 525682925719390232
+      sprPAttackSledgeHammer_strip13_2: 7934702596321821805
+      sprPAttackSledgeHammer_strip13_3: -1321179664708721430
+      sprPAttackSledgeHammer_strip13_4: -8175282813966644696
+      sprPAttackSledgeHammer_strip13_5: -2967250240664087681
+      sprPAttackSledgeHammer_strip13_6: -7466146594327777744
+      sprPAttackSledgeHammer_strip13_7: 1625970042100430507
+      sprPAttackSledgeHammer_strip13_8: -8808564675399457821
+      sprPAttackSledgeHammer_strip13_9: -3686701187441362655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

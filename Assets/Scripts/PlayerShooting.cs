@@ -6,9 +6,11 @@ public class PlayerShooting : MonoBehaviour
     [SerializeField] WeaponData startingMelee;
     [SerializeField] WeaponData startingRanged;
     [SerializeField] WeaponPickup pickupPrefab;
+    [SerializeField] LayerMask wallMask;            // set to Walls (falls back to the Walls layer if empty)
     [SerializeField] float muzzleOffset = 0.6f;
     [SerializeField] float pickupRadius = 1f;
     [SerializeField] float throwSpeed = 14f;
+    [SerializeField] bool showHitArea;              // tick to draw the melee hit circle while tuning reach
 
     WeaponData melee;
     WeaponData ranged;
@@ -16,17 +18,23 @@ public class PlayerShooting : MonoBehaviour
     bool holdingMelee;
 
     Camera cam;
+    PlayerWeaponVisual weaponVisual;
     float nextFireTime;
 
     WeaponData Current => holdingMelee ? melee : ranged;
+    public WeaponData CurrentWeapon => Current;
 
     void Awake()
     {
         cam = Camera.main;
+        weaponVisual = GetComponent<PlayerWeaponVisual>();
+
         melee = startingMelee;
         ranged = startingRanged;
         rangedAmmo = ranged != null ? ranged.maxAmmo : 0;
         holdingMelee = melee != null;
+
+        if (wallMask.value == 0) wallMask = LayerMask.GetMask("Walls");
     }
 
     void Update()
@@ -136,14 +144,19 @@ public class PlayerShooting : MonoBehaviour
     void Shoot(Vector2 aim)
     {
         WeaponData w = ranged;
+
+        Noise.Make(transform.position, w.noiseRadius);
+
+        // Wall right in front of the gun: the shot hits it, so don't spawn bullets past it
+        Vector2 spawn = (Vector2)transform.position + aim * muzzleOffset;
+        if (Physics2D.Linecast(transform.position, spawn, wallMask)) return;
+
         for (int i = 0; i < w.pellets; i++)
         {
             float angle = Random.Range(-w.spreadAngle / 2f, w.spreadAngle / 2f);
             Vector2 dir = Quaternion.Euler(0, 0, angle) * aim;
 
-            Bullet bullet = Instantiate(w.bulletPrefab,
-                                        (Vector2)transform.position + aim * muzzleOffset,
-                                        Quaternion.identity);
+            Bullet bullet = Instantiate(w.bulletPrefab, spawn, Quaternion.identity);
             bullet.Launch(dir, w.bulletSpeed, w.bulletLifetime, w.damage);
         }
     }
@@ -153,7 +166,8 @@ public class PlayerShooting : MonoBehaviour
         WeaponData w = melee;
         Vector2 center = (Vector2)transform.position + aim * w.meleeRange;
 
-        ShowSlash(center, w.meleeRadius);
+        if (weaponVisual != null) weaponVisual.Swing(w);
+        if (showHitArea) ShowSlash(center, w.meleeRadius);
 
         foreach (var hit in Physics2D.OverlapCircleAll(center, w.meleeRadius))
         {
@@ -162,7 +176,7 @@ public class PlayerShooting : MonoBehaviour
         }
     }
 
-    // Brief white circle so you can see the swing and its reach
+    // Brief white circle so you can see the swing's reach while tuning
     void ShowSlash(Vector2 center, float radius)
     {
         var go = new GameObject("Slash");

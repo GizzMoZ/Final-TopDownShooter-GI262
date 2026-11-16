@@ -1,4 +1,4 @@
-public enum DamageType { Melee, Ranged }
+public enum DamageType { Melee, Ranged, Thrown }
 
 public interface IDamageable
 {

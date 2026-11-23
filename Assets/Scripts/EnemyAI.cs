@@ -328,7 +328,7 @@ public class EnemyAI : MonoBehaviour
         if (Vector2.Distance(center, player.position) > w.meleeRadius + PlayerRadius) return;
         if (Physics2D.Linecast(rb.position, player.position, obstacleMask)) return;   // wall in between
 
-        playerHealth.TakeDamage(1);
+        playerHealth.TakeDamage(1, health);
     }
 
     void CancelMelee()
@@ -647,7 +647,7 @@ public class EnemyAI : MonoBehaviour
         if (gun != null && gun.Weapon != null && gun.Weapon.isMelee) return;
 
         var ph = c.collider.GetComponent<PlayerHealth>();
-        if (ph != null) ph.TakeDamage(1);
+        if (ph != null) ph.TakeDamage(1, health);
     }
 
     void OnDrawGizmos() //visual cone

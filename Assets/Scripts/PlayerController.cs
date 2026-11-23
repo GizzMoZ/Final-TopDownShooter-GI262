@@ -39,7 +39,7 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        rb.linearVelocity = moveInput * moveSpeed * CardManager.MoveSpeedMultiplier;
 
         Vector2 dir = mouseWorld - rb.position;
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;

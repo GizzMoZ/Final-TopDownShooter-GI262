@@ -21,6 +21,8 @@ public class WeaponData : ScriptableObject
     public float bulletSpeed = 20f;
     public float bulletLifetime = 2f;
     public float noiseRadius = 12f;       // how far a shot can be heard
+    public bool pierce;                   // bullets fly through enemies (walls still stop them)
+    public bool killsAnyEnemy;            // bullets kill every enemy type, even ones immune to ranged hits
 
     [Header("Melee")]
     public bool isMelee = false;

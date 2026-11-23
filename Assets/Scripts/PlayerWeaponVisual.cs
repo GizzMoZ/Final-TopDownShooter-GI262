@@ -1,6 +1,5 @@
 using UnityEngine;
 
-// Shows the weapon the player is holding and plays its swing
 [RequireComponent(typeof(PlayerShooting))]
 public class PlayerWeaponVisual : MonoBehaviour
 {
@@ -18,7 +17,7 @@ public class PlayerWeaponVisual : MonoBehaviour
     void LateUpdate()
     {
         WeaponData w = shooting.CurrentWeapon;
-        if (!firstFrame && w == shown) return;   // only update when the weapon changes
+        if (!firstFrame && w == shown) return;   
 
         firstFrame = false;
         shown = w;

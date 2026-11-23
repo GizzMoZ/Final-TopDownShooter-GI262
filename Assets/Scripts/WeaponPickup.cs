@@ -105,7 +105,7 @@ public class WeaponPickup : MonoBehaviour
         var enemy = other.GetComponent<EnemyHealth>();
         if (enemy != null)
         {
-            if (weapon.killsWhenThrown) enemy.TakeDamage(weapon.damage, DamageType.Thrown);
+            if (weapon.killsWhenThrown || CardManager.ThrownWeaponsKill) enemy.TakeDamage(weapon.damage, DamageType.Thrown);
             else enemy.Stun(weapon.stunDuration);
         }
 

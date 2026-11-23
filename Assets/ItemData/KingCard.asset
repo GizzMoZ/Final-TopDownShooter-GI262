@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de7924fb6013ff446a924baefeda3a12, type: 3}
+  m_Name: KingCard
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: King
+  description: Survive more than one hit. But you move 10% slower and wider attack.
+  sprite: {fileID: -307934165, guid: 7fa67f86b361fe44cb15163d8c1fa773, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  disableMelee: 0
+  disableRanged: 0
+  grantedWeapon: {fileID: 0}
+  grantedMeleeWeapon: {fileID: 0}
+  unlimitedAmmo: 0
+  lockLoadout: 0
+  moveSpeedMultiplier: 0.9
+  noiseMultiplier: 1
+  meleeReachMultiplier: 1
+  meleeSpeedMultiplier: 1
+  fireRateMultiplier: 1
+  thrownWeaponsKill: 0
+  hasCountdown: 0
+  startTime: 10
+  timePerKill: 3
+  extraHits: 1
+  graceTime: 1
+  hasParry: 0
+  parryWindow: 0.25
+  parryRadius: 1.6
+  parryMissCooldown: 1.2
+  parryStunTime: 2
+  reflectSpeed: 28

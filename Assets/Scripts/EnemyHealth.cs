@@ -5,13 +5,19 @@ public enum EnemyType { Normal, MeleeOnly, RangedOnly }
 
 public class EnemyHealth : MonoBehaviour, IDamageable
 {
+    // Raised once whenever an enemy dies. Cards like Ace and the floor-clear check listen to this.
+    public static event System.Action Killed;
+
+    // How many enemies are still alive in the scene
+    public static int Alive { get; private set; }
+
     [SerializeField] EnemyType type = EnemyType.Normal;
     [SerializeField] int health = 1;
 
     [Header("Drop on death")]
-    [SerializeField] WeaponData dropWeapon;     
+    [SerializeField] WeaponData dropWeapon;     // only used if the enemy carries no weapon (EnemyWeapon)
     [SerializeField] int dropAmmo = 6;
-    [SerializeField] WeaponPickup pickupPrefab;
+    [SerializeField] WeaponPickup pickupPrefab; // REQUIRED for drops: drag your WeaponPickup prefab here
 
     public bool IsDead { get; private set; }
     public bool IsStunned { get; private set; }
@@ -23,10 +29,14 @@ public class EnemyHealth : MonoBehaviour, IDamageable
     Coroutine flashRoutine;
     Coroutine stunRoutine;
 
-    // Feedback color.
-    static readonly Color StunColor = new Color(1f, 0.92f, 0.2f);         // stunt = yellow
-    static readonly Color ImmuneFlashColor = new Color(0.4f, 0.4f, 0.4f); // use wrong weapon = gray
-    static readonly Color DeadColor = new Color(0.35f, 0.1f, 0.1f);       // dead = dark red
+    // Feedback tints. They multiply the sprite, so white = the sprite's normal look.
+    static readonly Color StunColor = new Color(1f, 0.92f, 0.2f);         // yellow
+    static readonly Color ImmuneFlashColor = new Color(0.4f, 0.4f, 0.4f); // dark flash when a hit doesn't work
+    static readonly Color DeadColor = new Color(0.35f, 0.1f, 0.1f);       // dark red
+
+    // a fresh Play session starts with no enemies counted
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
+    static void ResetStatics() { Alive = 0; }
 
     void Awake()
     {
@@ -34,7 +44,14 @@ public class EnemyHealth : MonoBehaviour, IDamageable
         col = GetComponent<Collider2D>();
         rb = GetComponent<Rigidbody2D>();
 
-        baseColor = sr.color;   // temp color pre art
+        baseColor = sr.color;   // whatever you set on the Sprite Renderer
+        Alive++;
+    }
+
+    void OnDestroy()
+    {
+        // an enemy that is removed while still alive (scene reload, Destroy) no longer counts
+        if (!IsDead) Alive = Mathf.Max(0, Alive - 1);
     }
 
     public void TakeDamage(int amount, DamageType damageType)
@@ -87,6 +104,7 @@ public class EnemyHealth : MonoBehaviour, IDamageable
     {
         IsDead = true;
         IsStunned = false;
+        Alive = Mathf.Max(0, Alive - 1);
         StopAllCoroutines();
 
         col.enabled = false;
@@ -99,6 +117,8 @@ public class EnemyHealth : MonoBehaviour, IDamageable
         var ai = GetComponent<EnemyAI>();
         if (ai != null) ai.enabled = false;
 
+        // Drop the weapon it is carrying with the ammo it has left.
+        // No weapon on the enemy? Fall back to the Drop Weapon fields above.
         WeaponData dropW = dropWeapon;
         int dropA = dropAmmo;
 
@@ -125,5 +145,7 @@ public class EnemyHealth : MonoBehaviour, IDamageable
 
         sr.color = DeadColor;
         sr.sortingOrder -= 1;
+
+        Killed?.Invoke();   // tells listeners an enemy just died (Alive is already updated)
     }
 }

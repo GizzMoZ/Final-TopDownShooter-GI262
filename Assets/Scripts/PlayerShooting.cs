@@ -19,22 +19,50 @@ public class PlayerShooting : MonoBehaviour
 
     Camera cam;
     PlayerWeaponVisual weaponVisual;
+    PlayerParry parry;
     float nextFireTime;
+    float nextScrollTime;
 
     WeaponData Current => holdingMelee ? melee : ranged;
     public WeaponData CurrentWeapon => Current;
+
+    // the card's granted weapon never runs out of ammo (only while you are holding it)
+    bool HasUnlimitedAmmo =>
+        CardManager.UnlimitedAmmo && ranged != null && ranged == CardManager.GrantedWeapon;
 
     void Awake()
     {
         cam = Camera.main;
         weaponVisual = GetComponent<PlayerWeaponVisual>();
+        parry = GetComponent<PlayerParry>();
 
+        if (wallMask.value == 0) wallMask = LayerMask.GetMask("Walls");
+
+        ApplyCard();
+    }
+
+    // Sets up the starting weapons, then lets the chosen card change them.
+    // Called when the scene loads and again right after a card is picked.
+    public void ApplyCard()
+    {
         melee = startingMelee;
         ranged = startingRanged;
         rangedAmmo = ranged != null ? ranged.maxAmmo : 0;
-        holdingMelee = melee != null;
 
-        if (wallMask.value == 0) wallMask = LayerMask.GetMask("Walls");
+        if (CardManager.MeleeDisabled) melee = null;
+        if (CardManager.RangedDisabled) { ranged = null; rangedAmmo = 0; }
+
+        WeaponData grantedRanged = CardManager.GrantedWeapon;
+        if (grantedRanged != null)
+        {
+            ranged = grantedRanged;
+            rangedAmmo = grantedRanged.maxAmmo;
+        }
+
+        WeaponData grantedMelee = CardManager.GrantedMeleeWeapon;
+        if (grantedMelee != null) melee = grantedMelee;
+
+        holdingMelee = melee != null;
     }
 
     void Update()
@@ -43,11 +71,21 @@ public class PlayerShooting : MonoBehaviour
         var kb = Keyboard.current;
         if (mouse == null || kb == null) return;
 
+        // 1 / 2: pick a slot directly
         if (kb.digit1Key.wasPressedThisFrame && melee != null) holdingMelee = true;
         if (kb.digit2Key.wasPressedThisFrame && ranged != null) holdingMelee = false;
 
-        // Right mouse: pick up a nearby weapon, otherwise throw the held one
-        if (mouse.rightButton.wasPressedThisFrame)
+        // V key or the mouse wheel: switch to the other weapon
+        bool switchWeapon = kb.vKey.wasPressedThisFrame;
+        if (Mathf.Abs(mouse.scroll.ReadValue().y) > 0.1f && Time.unscaledTime >= nextScrollTime)
+        {
+            switchWeapon = true;
+            nextScrollTime = Time.unscaledTime + 0.15f;   // one switch per scroll, even on a smooth trackpad
+        }
+        if (switchWeapon) ToggleWeapon();
+
+        // Right mouse: pick up a nearby weapon, otherwise throw the held one (not with a locked loadout)
+        if (mouse.rightButton.wasPressedThisFrame && !CardManager.LoadoutLocked)
         {
             Vector2 aimDir = GetAim(mouse);
             if (!TryPickup(aimDir)) ThrowWeapon(aimDir);
@@ -69,11 +107,26 @@ public class PlayerShooting : MonoBehaviour
         }
         else
         {
-            if (rangedAmmo <= 0) return;
-            rangedAmmo--;
+            if (!HasUnlimitedAmmo)
+            {
+                if (rangedAmmo <= 0) return;
+                rangedAmmo--;
+            }
             Shoot(aim);
         }
-        nextFireTime = Time.time + w.fireDelay;
+
+        // cards can speed up swings (melee) and shooting (ranged)
+        float delay = holdingMelee
+            ? w.fireDelay / CardManager.MeleeSpeedMultiplier
+            : w.fireDelay / CardManager.FireRateMultiplier;
+        nextFireTime = Time.time + delay;
+    }
+
+    // swaps between the melee and ranged weapon (does nothing if you only have one)
+    void ToggleWeapon()
+    {
+        if (holdingMelee && ranged != null) holdingMelee = false;
+        else if (!holdingMelee && melee != null) holdingMelee = true;
     }
 
     Vector2 GetAim(Mouse mouse)
@@ -93,6 +146,14 @@ public class PlayerShooting : MonoBehaviour
         {
             var p = hit.GetComponent<WeaponPickup>();
             if (p == null) continue;
+
+            // card: slots that are disabled can't take weapons
+            if (p.weapon != null)
+            {
+                if (CardManager.MeleeDisabled && p.weapon.isMelee) continue;
+                if (CardManager.RangedDisabled && !p.weapon.isMelee) continue;
+            }
+
             float d = ((Vector2)p.transform.position - (Vector2)transform.position).sqrMagnitude;
             if (d < bestDist) { bestDist = d; best = p; }
         }
@@ -145,7 +206,8 @@ public class PlayerShooting : MonoBehaviour
     {
         WeaponData w = ranged;
 
-        Noise.Make(transform.position, w.noiseRadius);
+        // card: quieter shots
+        Noise.Make(transform.position, w.noiseRadius * CardManager.NoiseMultiplier);
 
         // Wall right in front of the gun: the shot hits it, so don't spawn bullets past it
         Vector2 spawn = (Vector2)transform.position + aim * muzzleOffset;
@@ -157,22 +219,30 @@ public class PlayerShooting : MonoBehaviour
             Vector2 dir = Quaternion.Euler(0, 0, angle) * aim;
 
             Bullet bullet = Instantiate(w.bulletPrefab, spawn, Quaternion.identity);
-            bullet.Launch(dir, w.bulletSpeed, w.bulletLifetime, w.damage);
+            bullet.Launch(dir, w.bulletSpeed, w.bulletLifetime, w.damage, w.pierce, w.killsAnyEnemy);
         }
     }
 
     void Melee(Vector2 aim)
     {
         WeaponData w = melee;
-        Vector2 center = (Vector2)transform.position + aim * w.meleeRange;
+
+        // card: longer reach
+        float reach = CardManager.MeleeReachMultiplier;
+        float radius = w.meleeRadius * reach;
+        Vector2 center = (Vector2)transform.position + aim * (w.meleeRange * reach);
+
+        // a weapon marked "Kills Any Enemy" (the Queen's sword) hurts every enemy type
+        DamageType type = w.killsAnyEnemy ? DamageType.Special : DamageType.Melee;
 
         if (weaponVisual != null) weaponVisual.Swing(w);
-        if (showHitArea) ShowSlash(center, w.meleeRadius);
+        if (parry != null) parry.OnSwing();   // with "Parry On Swing" every swing parries
+        if (showHitArea) ShowSlash(center, radius);
 
-        foreach (var hit in Physics2D.OverlapCircleAll(center, w.meleeRadius))
+        foreach (var hit in Physics2D.OverlapCircleAll(center, radius))
         {
             if (hit.gameObject == gameObject || hit.isTrigger) continue;
-            hit.GetComponent<IDamageable>()?.TakeDamage(w.damage, DamageType.Melee);
+            hit.GetComponent<IDamageable>()?.TakeDamage(w.damage, type);
         }
     }
 
@@ -212,17 +282,39 @@ public class PlayerShooting : MonoBehaviour
         return circleSprite;
     }
 
+    // ---------- Weapon UI (bottom left) ----------
+
     void OnGUI()
     {
-        var style = new GUIStyle(GUI.skin.label) { fontSize = 24, fontStyle = FontStyle.Bold };
-        style.normal.textColor = Color.white;
+        int size = Mathf.RoundToInt(Screen.height * 0.03f);
+        var style = new GUIStyle(GUI.skin.label) { fontSize = size, fontStyle = FontStyle.Bold };
 
-        string m = melee != null ? melee.weaponName : "-";
-        string r = ranged != null ? $"{ranged.weaponName}  {rangedAmmo}/{ranged.maxAmmo}" : "-";
+        string m = CardManager.MeleeDisabled ? "disabled" : (melee != null ? melee.weaponName : "-");
 
-        GUI.Label(new Rect(20, 20, 600, 40),
-            (holdingMelee ? "> " : "   ") + "1  Melee: " + m, style);
-        GUI.Label(new Rect(20, 55, 600, 40),
-            (!holdingMelee && ranged != null ? "> " : "   ") + "2  Ranged: " + r, style);
+        string r;
+        if (CardManager.RangedDisabled) r = "disabled";
+        else if (ranged == null) r = "-";
+        else if (HasUnlimitedAmmo) r = ranged.weaponName + "  unlimited";
+        else r = $"{ranged.weaponName}  {rangedAmmo}/{ranged.maxAmmo}";
+
+        float lineHeight = size * 1.5f;
+        float x = Screen.height * 0.03f;
+        float bottomLine = Screen.height - Screen.height * 0.03f - lineHeight;   // ranged sits lowest
+        float topLine = bottomLine - lineHeight;                                 // melee just above it
+
+        DrawHudLine(new Rect(x, topLine, 700, lineHeight), "1  Melee: " + m, holdingMelee, style);
+        DrawHudLine(new Rect(x, bottomLine, 700, lineHeight), "2  Ranged: " + r, !holdingMelee && ranged != null, style);
+    }
+
+    // the weapon in your hand is bright, the other one is dimmed
+    static void DrawHudLine(Rect rect, string text, bool active, GUIStyle style)
+    {
+        float shadow = Mathf.Max(2f, style.fontSize * 0.07f);
+
+        style.normal.textColor = new Color(0f, 0f, 0f, 0.8f);
+        GUI.Label(new Rect(rect.x + shadow, rect.y + shadow, rect.width, rect.height), (active ? "> " : "   ") + text, style);
+
+        style.normal.textColor = active ? Color.white : new Color(1f, 1f, 1f, 0.5f);
+        GUI.Label(rect, (active ? "> " : "   ") + text, style);
     }
 }

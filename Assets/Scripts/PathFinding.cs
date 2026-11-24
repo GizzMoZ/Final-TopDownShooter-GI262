@@ -26,6 +26,17 @@ public class PathGrid : MonoBehaviour
     int[] parent;
     byte[] state;   // 0 = unseen, 1 = open, 2 = closed
 
+    bool IsWall(Vector2 point)   // a wall blocks a cell, but an unlocked door doesn't (enemies can push it open)
+    {
+        foreach (var c in Physics2D.OverlapCircleAll(point, agentRadius, wallMask))
+        {
+            var door = c.GetComponentInParent<Door>();
+            if (door != null && !door.IsLocked) continue;
+            return true;
+        }
+        return false;
+    }
+
     void Awake()
     {
         Instance = this;
@@ -44,7 +55,7 @@ public class PathGrid : MonoBehaviour
         if (Instance == this) Instance = null;
     }
 
-    // ---------- Building the grid ----------
+    // Building the grid 
 
     void EnsureBaked()
     {
@@ -84,7 +95,7 @@ public class PathGrid : MonoBehaviour
         blocked = new bool[width * height];
         for (int y = 0; y < height; y++)
             for (int x = 0; x < width; x++)
-                blocked[y * width + x] = Physics2D.OverlapCircle(CellCenter(x, y), agentRadius, wallMask) != null;
+                blocked[y * width + x] = IsWall(CellCenter(x, y));
     }
 
     Vector2 CellCenter(int x, int y)

@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 4964598796355060113}
   - component: {fileID: 4981599691059453622}
   - component: {fileID: 1642708020251235627}
+  - component: {fileID: -3984758582581878409}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -223,6 +224,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 123dbe14ffbec674f85e05f80544fccd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerWeaponVisual
+--- !u!114 &-3984758582581878409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5865083806533157325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d47e81ddbcb1f44be707e6d525bebb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteract
+  reach: 1.4
 --- !u!1 &8184442713862275556
 GameObject:
   m_ObjectHideFlags: 0
